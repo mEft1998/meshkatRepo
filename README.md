@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mEft1998
+- 👋 Hi, I’m @mEft1998  //mohammad eftekhari
 - 👀 I’m interested in c/c++ programming , Embedded linux developing and etc
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on EmbeddedLinux 
