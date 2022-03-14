@@ -2,7 +2,7 @@
 - 👀 I’m interested in c/c++ programming , Embedded linux developing and etc
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on EmbeddedLinux 
-- 📫 How to reach me 
+- 📫 How to reach me :
 -   mohammad.eft77@gmail.com
 
 <!---
